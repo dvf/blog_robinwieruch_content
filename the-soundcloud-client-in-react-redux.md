@@ -79,7 +79,7 @@ A list of extensions which can be applied on top of the SoundCloud Client with R
 
 {{% chapter_header "A project from scratch" "aProjectFromScratch" %}}
 
-I must say I learned a lot from implementing a project from scratch! It makes totally sense to set up your side project from zero to one without having a boilerplate or seed project. You will learn tons of stuff not only about React + Redux, but also about JavaScript in general and its environment. This tutorial will be learning by doing by understanding each step, like it was for me when I did this whole project, with some helpful explanations. After you have finished this, you should be able to set up your own React + Redux side project to provide another real world project for the community.
+I must say I learned a lot from implementing a project from scratch! It makes total sense to set up your side project from zero to one without having a boilerplate or seed project. You will learn tons of stuff not only about React + Redux, but also about JavaScript in general and its environment. In this tutorial we'll be learning by doing, understanding each step—like it was for me when I did this whole project—with some helpful explanations. After you have finished this, you should be able to set up your own React + Redux side project to provide another real world project for the community.
 
 > I constantly improve the tutorial. If you run into any problems or see room for improvements, please let me know. You can right away start to improve it on your own on {{% a_blank "GitHub" "https://github.com/rwieruch/blog_robinwieruch_content/blob/master/the-soundcloud-client-in-react-redux.md" %}}.
 
